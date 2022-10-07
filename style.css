@@ -238,9 +238,7 @@ color: #FFFFFF;
     justify-content: space-evenly;
     margin-top: 70px;
   }
-  .img1{
-    display: none;
-  }
+  
   #ph1 {
     margin-top: 90px;
   }
@@ -344,7 +342,7 @@ line-height: 150%;
 width: 80%;
 
     }
-      #person { 
+      #person {
         width: 100%;
       }
       .h2{
